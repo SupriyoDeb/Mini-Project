@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Gov Scheme Scam Detector",
+  "version": "1.0",
+  "description": "Protects users against fake government scheme portals.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
